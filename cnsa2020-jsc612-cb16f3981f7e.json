@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cnsa2020-jsc612-274220",
+  "private_key_id": "cb16f3981f7ece3cea2db8be8e4e3f4916e4aa0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDqPikHp1/UneV1\nGIEmUfH3OYPOAIEnJ/8wqQ311DOGtmevIyUXe4iX2j56ERtyKIHuQ2vyi68R64Wo\neBEtiGFti3hAyOs+yCvQyspGhM4vcC8Z1j4LXxeESooNU5vyUkYuQ6jXB31e7fZn\n7paqNmR36ncHbX4fiAWxQ3TWTieCOCYX2dDwGbOwp+Aaof83ptZmOb5VhSwHnNXJ\nqhPrczt/kJfydBBuhxwBD/Mo9vauZMGq490yj/MjiJ5ji4OiRjyVpFJTkO/pYz2k\nh1vZEOVZL8ZSWiSx7+QOubqjPE84ZFo+kzoNXfJfUPtJpHksv3KDQKNHvv7LzHZB\n91zHO2elAgMBAAECggEAH473XSoeHZmWR/PgtoZ0yH+Ns+vaeqmHVol4MYYA2SXr\nCyv7e9HvYbIMF8sFPRibBLw9p2RNVmc6Tyu5+L32jlkrfuLy2rcCPDOOE/khhD+j\ngOId4s9RbkfSmKAKkxelj+casLm4GNmLiI4a61y/pW5H0g7c3qenSK4TaCoIZaEj\n+LR3dI+5qjqaiPV0k03Z9uuUxcX2+3VgqhfpG7n69EFbCME7XnD7kMY09njl2IZI\nPECLqfbJWo9zxXkFGqTRmGb6wIfNYKlbu/XJqLHZAielR9K0+9O4dr43pY89+bYL\nR+ipwIyanHje+yObRzcCG5STqYVoRl6zxid33XsAcQKBgQD1kmOyOwQL0Px9i8FQ\nlq8APqlvx83BzgxuTVaAAqutL0GcuFpyCasiFvi9aWZLrB5KI/VNJFClq9eYg/Ac\n5jumrd1A+nn04vzTZnNxMcUVArqgW+E77DD0KwA9VJZ2xJKNINVcmfEw8LlK6fio\nYypVVUnPBgEsZQuYW9D4KV8mzQKBgQD0MJzzz3L63pp5WGnK3HNqGgIAB0BQ24qh\nhHUAbcVnt1uSG2cK+G1WBR6RRrktcHoGUfPE/3ZAQDe31syLHe0mZ1VSKcU8RsJf\nIPBAOpzurfh932THWzAidKT3EqJSX1IGsvWdg3od9paLiXLUsTguBbcuTvXqh9X8\nCsp/NJLUOQKBgFdQc449mZSx+/SPqm6DBTorDYenHSuZnaXiba0aRfxP3x5gFhiS\nA30dedevECY7zpFB88g370zYqtGZp9g+rFr5Wr/tz0sZIhfwR3+p2I895yl5Qb5S\nnp1SZMVpvA4CmrD/SZ2hRrbGALv4MOd+SuEIcDPhyK0GSHclvklePGzJAoGARLIs\nZXa17ReUs5CI6pYMLgw1BdcEY/rvTDMcS0uWXnA55aep3G85Kxrzl4Ei9UKQQZjq\nkEAh/z9RrXlTP8vifIxTd3Li1us9IU/95sPWhFsS7i5bhq4Do53XDt8CJVRFmjbc\nXDyxrR5DCexYDrfwixn2h6OVES63p1lN0G105RkCgYAkv7SQkzbEbZqSoCnnjA5C\njchhSJvZarHxhdCVS2LuMPPPMPqIeFqrYY34hg5mpv7lQhsJRiyIspC3LCgtoiWU\ng7jr3sIHFmJ4XAvxIwbiUa3mENbBnAInmTvnaN4pvk5vbqUG27WoE1rNAw/NLJJa\nFfd3HwVJu7tZ1kIocw3aSA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "compute-engine-default-service@cnsa2020-jsc612-274220.iam.gserviceaccount.com",
+  "client_id": "107629159959348387780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/compute-engine-default-service%40cnsa2020-jsc612-274220.iam.gserviceaccount.com"
+}
